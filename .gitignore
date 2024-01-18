@@ -5,6 +5,9 @@
 
 elevators_speed.ips
 fast_doors.ips
+minimizer_tourian_common.ips
+minimizer_tourian_common_smz3.ips
+minimizer_tourian_common_smz3.txt
 nerfed_charge.ips
 nerfed_charge_smz3.txt
 remove_elevators_speed.ips

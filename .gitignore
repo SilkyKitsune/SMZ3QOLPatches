@@ -10,8 +10,14 @@ minimizer_tourian_common_smz3.ips
 minimizer_tourian_common_smz3.txt
 nerfed_charge.ips
 nerfed_charge_smz3.txt
+Notes.txt
+refill_before_save.ips
 remove_elevators_speed.ips
 remove_fast_doors.ips
+remove_Infinite_Space_Jump.ips
+remove_Infinite_Space_Jump_smz3.ips
+remove_spinjumprestart.ips
+spinjumprestart.ips
 
 # User-specific files
 *.rsuser

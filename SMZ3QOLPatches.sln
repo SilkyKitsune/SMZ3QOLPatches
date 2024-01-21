@@ -12,16 +12,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		fast_doors.ips = fast_doors.ips
 		fast_doors_smz3.ips = fast_doors_smz3.ips
 		fast_doors_smz3.txt = fast_doors_smz3.txt
+		Infinite_Space_Jump_smz3.ips = Infinite_Space_Jump_smz3.ips
+		Infinite_Space_Jump_smz3.txt = Infinite_Space_Jump_smz3.txt
 		minimizer_tourian_common.ips = minimizer_tourian_common.ips
 		minimizer_tourian_common_smz3.ips = minimizer_tourian_common_smz3.ips
 		minimizer_tourian_common_smz3.txt = minimizer_tourian_common_smz3.txt
 		nerfed_charge.ips = nerfed_charge.ips
 		nerfed_charge_smz3.txt = nerfed_charge_smz3.txt
+		Notes.txt = Notes.txt
 		README.md = README.md
+		refill_before_save.ips = refill_before_save.ips
+		refill_before_save_smz3.ips = refill_before_save_smz3.ips
+		refill_before_save_smz3.txt = refill_before_save_smz3.txt
 		remove_elevators_speed.ips = remove_elevators_speed.ips
 		remove_elevators_speed_smz3.ips = remove_elevators_speed_smz3.ips
 		remove_fast_doors.ips = remove_fast_doors.ips
 		remove_fast_doors_smz3.ips = remove_fast_doors_smz3.ips
+		remove_Infinite_Space_Jump.ips = remove_Infinite_Space_Jump.ips
+		remove_Infinite_Space_Jump_smz3.ips = remove_Infinite_Space_Jump_smz3.ips
+		remove_spinjumprestart.ips = remove_spinjumprestart.ips
+		spinjumprestart.ips = spinjumprestart.ips
+		spinjumprestart_smz3.ips = spinjumprestart_smz3.ips
+		spinjumprestart_smz3.txt = spinjumprestart_smz3.txt
 	EndProjectSection
 EndProject
 Global

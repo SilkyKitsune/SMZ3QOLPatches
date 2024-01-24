@@ -3,17 +3,31 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Notes.txt
+
+minimizer_tourian_common_smz3.txt
+nerfed_charge_smz3.txt
+
+brinstar_map_room.ips
+dachora.ips
+early_super_bridge.ips
+high_jump.ips
+kraid_save.ips
+moat.ips
+red_tower.ips
+spazer.ips
+spospo_save.ips
+
 elevators_speed.ips
 fast_doors.ips
 minimizer_tourian_common.ips
 minimizer_tourian_common_smz3.ips
-minimizer_tourian_common_smz3.txt
 nerfed_charge.ips
-nerfed_charge_smz3.txt
-Notes.txt
 refill_before_save.ips
 remove_elevators_speed.ips
+remove_elevators_speed_smz3.ips
 remove_fast_doors.ips
+remove_fast_doors_smz3.ips
 remove_Infinite_Space_Jump.ips
 remove_Infinite_Space_Jump_smz3.ips
 remove_spinjumprestart.ips

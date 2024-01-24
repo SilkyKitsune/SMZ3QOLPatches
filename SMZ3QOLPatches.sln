@@ -6,39 +6,68 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F4893E1-0CDE-4421-82F8-EC1277E39D51}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		elevators_speed.ips = elevators_speed.ips
-		elevators_speed_smz3.ips = elevators_speed_smz3.ips
-		elevators_speed_smz3.txt = elevators_speed_smz3.txt
-		fast_doors.ips = fast_doors.ips
-		fast_doors_smz3.ips = fast_doors_smz3.ips
-		fast_doors_smz3.txt = fast_doors_smz3.txt
-		Infinite_Space_Jump_smz3.ips = Infinite_Space_Jump_smz3.ips
-		Infinite_Space_Jump_smz3.txt = Infinite_Space_Jump_smz3.txt
-		minimizer_tourian_common.ips = minimizer_tourian_common.ips
-		minimizer_tourian_common_smz3.ips = minimizer_tourian_common_smz3.ips
-		minimizer_tourian_common_smz3.txt = minimizer_tourian_common_smz3.txt
-		nerfed_charge.ips = nerfed_charge.ips
-		nerfed_charge_smz3.txt = nerfed_charge_smz3.txt
 		Notes.txt = Notes.txt
 		README.md = README.md
-		refill_before_save.ips = refill_before_save.ips
-		refill_before_save_smz3.ips = refill_before_save_smz3.ips
-		refill_before_save_smz3.txt = refill_before_save_smz3.txt
-		remove_elevators_speed.ips = remove_elevators_speed.ips
-		remove_elevators_speed_smz3.ips = remove_elevators_speed_smz3.ips
-		remove_fast_doors.ips = remove_fast_doors.ips
-		remove_fast_doors_smz3.ips = remove_fast_doors_smz3.ips
-		remove_Infinite_Space_Jump.ips = remove_Infinite_Space_Jump.ips
-		remove_Infinite_Space_Jump_smz3.ips = remove_Infinite_Space_Jump_smz3.ips
-		remove_spinjumprestart.ips = remove_spinjumprestart.ips
-		spinjumprestart.ips = spinjumprestart.ips
-		spinjumprestart_smz3.ips = spinjumprestart_smz3.ips
-		spinjumprestart_smz3.txt = spinjumprestart_smz3.txt
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}"
+	ProjectSection(SolutionItems) = preProject
+		ips\elevators_speed.ips = ips\elevators_speed.ips
+		ips\elevators_speed_smz3.ips = ips\elevators_speed_smz3.ips
+		ips\fast_doors.ips = ips\fast_doors.ips
+		ips\fast_doors_smz3.ips = ips\fast_doors_smz3.ips
+		ips\Infinite_Space_Jump_smz3.ips = ips\Infinite_Space_Jump_smz3.ips
+		ips\minimizer_tourian_common.ips = ips\minimizer_tourian_common.ips
+		ips\minimizer_tourian_common_smz3.ips = ips\minimizer_tourian_common_smz3.ips
+		ips\nerfed_charge.ips = ips\nerfed_charge.ips
+		ips\refill_before_save.ips = ips\refill_before_save.ips
+		ips\refill_before_save_smz3.ips = ips\refill_before_save_smz3.ips
+		ips\remove_elevators_speed.ips = ips\remove_elevators_speed.ips
+		ips\remove_elevators_speed_smz3.ips = ips\remove_elevators_speed_smz3.ips
+		ips\remove_fast_doors.ips = ips\remove_fast_doors.ips
+		ips\remove_fast_doors_smz3.ips = ips\remove_fast_doors_smz3.ips
+		ips\remove_Infinite_Space_Jump.ips = ips\remove_Infinite_Space_Jump.ips
+		ips\remove_Infinite_Space_Jump_smz3.ips = ips\remove_Infinite_Space_Jump_smz3.ips
+		ips\remove_spinjumprestart.ips = ips\remove_spinjumprestart.ips
+		ips\spinjumprestart.ips = ips\spinjumprestart.ips
+		ips\spinjumprestart_smz3.ips = ips\spinjumprestart_smz3.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anit-Softlock", "Anit-Softlock", "{DABACA08-638A-4F0D-84D5-DFE91DA478A8}"
+	ProjectSection(SolutionItems) = preProject
+		ips\Anti-Softlock\brinstar_map_room.ips = ips\Anti-Softlock\brinstar_map_room.ips
+		ips\Anti-Softlock\dachora.ips = ips\Anti-Softlock\dachora.ips
+		ips\Anti-Softlock\early_super_bridge.ips = ips\Anti-Softlock\early_super_bridge.ips
+		ips\Anti-Softlock\high_jump.ips = ips\Anti-Softlock\high_jump.ips
+		ips\Anti-Softlock\kraid_save.ips = ips\Anti-Softlock\kraid_save.ips
+		ips\Anti-Softlock\moat.ips = ips\Anti-Softlock\moat.ips
+		ips\Anti-Softlock\red_tower.ips = ips\Anti-Softlock\red_tower.ips
+		ips\Anti-Softlock\spazer.ips = ips\Anti-Softlock\spazer.ips
+		ips\Anti-Softlock\spospo_save.ips = ips\Anti-Softlock\spospo_save.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C31AD4A8-CCBF-4F34-A833-0CADBA356593}"
+	ProjectSection(SolutionItems) = preProject
+		docs\elevators_speed_smz3.txt = docs\elevators_speed_smz3.txt
+		docs\fast_doors_smz3.txt = docs\fast_doors_smz3.txt
+		docs\Infinite_Space_Jump_smz3.txt = docs\Infinite_Space_Jump_smz3.txt
+		docs\minimizer_tourian_common_smz3.txt = docs\minimizer_tourian_common_smz3.txt
+		docs\nerfed_charge_smz3.txt = docs\nerfed_charge_smz3.txt
+		docs\refill_before_save_smz3.txt = docs\refill_before_save_smz3.txt
+		docs\spinjumprestart_smz3.txt = docs\spinjumprestart_smz3.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softlock", "{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
+		{DABACA08-638A-4F0D-84D5-DFE91DA478A8} = {FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}
+		{C31AD4A8-CCBF-4F34-A833-0CADBA356593} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
+		{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2} = {C31AD4A8-CCBF-4F34-A833-0CADBA356593}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E041A297-06F4-4BDF-86C0-D8049B0EFB23}

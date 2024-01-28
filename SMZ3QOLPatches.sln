@@ -59,15 +59,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C31AD4A8-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softlock", "{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2}"
 	ProjectSection(SolutionItems) = preProject
-		docs\Anti-Softlock\brinstar_map_room_smz3.txt = docs\Anti-Softlock\brinstar_map_room_smz3.txt
-		docs\Anti-Softlock\dachora_smz3.txt = docs\Anti-Softlock\dachora_smz3.txt
-		docs\Anti-Softlock\early_super_bridge_smz3.txt = docs\Anti-Softlock\early_super_bridge_smz3.txt
-		docs\Anti-Softlock\high_jump_smz3.txt = docs\Anti-Softlock\high_jump_smz3.txt
-		docs\Anti-Softlock\kraid_save_smz3.txt = docs\Anti-Softlock\kraid_save_smz3.txt
-		docs\Anti-Softlock\moat_smz3.txt = docs\Anti-Softlock\moat_smz3.txt
-		docs\Anti-Softlock\red_tower_smz3.txt = docs\Anti-Softlock\red_tower_smz3.txt
-		docs\Anti-Softlock\spazer_smz3.txt = docs\Anti-Softlock\spazer_smz3.txt
-		docs\Anti-Softlock\spospo_save_smz3.txt = docs\Anti-Softlock\spospo_save_smz3.txt
+		docs\Anti-Softlock\brinstar_map_room_smz3.yaml = docs\Anti-Softlock\brinstar_map_room_smz3.yaml
+		docs\Anti-Softlock\dachora_smz3.yaml = docs\Anti-Softlock\dachora_smz3.yaml
+		docs\Anti-Softlock\early_super_bridge_smz3.yaml = docs\Anti-Softlock\early_super_bridge_smz3.yaml
+		docs\Anti-Softlock\high_jump_smz3.yaml = docs\Anti-Softlock\high_jump_smz3.yaml
+		docs\Anti-Softlock\kraid_save_smz3.yaml = docs\Anti-Softlock\kraid_save_smz3.yaml
+		docs\Anti-Softlock\moat_smz3.yaml = docs\Anti-Softlock\moat_smz3.yaml
+		docs\Anti-Softlock\red_tower_smz3.yaml = docs\Anti-Softlock\red_tower_smz3.yaml
+		docs\Anti-Softlock\spazer_smz3.yaml = docs\Anti-Softlock\spazer_smz3.yaml
+		docs\Anti-Softlock\spospo_save_smz3.yaml = docs\Anti-Softlock\spospo_save_smz3.yaml
 	EndProjectSection
 EndProject
 Global

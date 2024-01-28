@@ -2,7 +2,7 @@
 Some quality of life patches ported from VARIA randomizer for SMZ3.
 
 ### Important Info
-- The ips files are the only thing you need to download, you'll have to apply them individually with something like LunarIPS.
+- The IPS files are the only thing you need to download, you'll have to apply them individually with something like LunarIPS.
 - Text documents show how the addresses have been adjusted for SMZ3.
 
 ### Patches

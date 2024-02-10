@@ -16,3 +16,15 @@ Some quality of life patches ported from VARIA randomizer for SMZ3.
 	- allows pressing jump to begin spinning during a non-spinning jump 
 - **refill_before_save_smz3.ips** (original developed by Adam)
 	- using a save station fully refills energy/ammo just like Samus's ship does
+- **Anti-Softlock Layout Patches** (originals developed by Total & Flo)
+	- brinstar_map_room_smz3.ips
+	- dachora_smz3.ips (coming soon)
+	- early_super_bridge_smz3.ips
+	- high_jump_smz3.ips
+	- kraid_save_smz3.ips
+	- moat_smz3.ips
+	- red_tower_smz3.ips
+	- spazer_smz3.ips
+	- spospo_save_smz3.ips
+	- layout patch 10 coming soon
+    - layout patch 11 coming soon

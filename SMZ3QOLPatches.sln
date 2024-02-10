@@ -36,14 +36,22 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anit-Softlock", "Anit-Softlock", "{DABACA08-638A-4F0D-84D5-DFE91DA478A8}"
 	ProjectSection(SolutionItems) = preProject
 		ips\Anti-Softlock\brinstar_map_room.ips = ips\Anti-Softlock\brinstar_map_room.ips
+		ips\Anti-Softlock\brinstar_map_room_smz3.ips = ips\Anti-Softlock\brinstar_map_room_smz3.ips
 		ips\Anti-Softlock\dachora.ips = ips\Anti-Softlock\dachora.ips
 		ips\Anti-Softlock\early_super_bridge.ips = ips\Anti-Softlock\early_super_bridge.ips
+		ips\Anti-Softlock\early_super_bridge_smz3.ips = ips\Anti-Softlock\early_super_bridge_smz3.ips
 		ips\Anti-Softlock\high_jump.ips = ips\Anti-Softlock\high_jump.ips
+		ips\Anti-Softlock\high_jump_smz3.ips = ips\Anti-Softlock\high_jump_smz3.ips
 		ips\Anti-Softlock\kraid_save.ips = ips\Anti-Softlock\kraid_save.ips
+		ips\Anti-Softlock\kraid_save_smz3.ips = ips\Anti-Softlock\kraid_save_smz3.ips
 		ips\Anti-Softlock\moat.ips = ips\Anti-Softlock\moat.ips
+		ips\Anti-Softlock\moat_smz3.ips = ips\Anti-Softlock\moat_smz3.ips
 		ips\Anti-Softlock\red_tower.ips = ips\Anti-Softlock\red_tower.ips
+		ips\Anti-Softlock\red_tower_smz3.ips = ips\Anti-Softlock\red_tower_smz3.ips
 		ips\Anti-Softlock\spazer.ips = ips\Anti-Softlock\spazer.ips
+		ips\Anti-Softlock\spazer_smz3.ips = ips\Anti-Softlock\spazer_smz3.ips
 		ips\Anti-Softlock\spospo_save.ips = ips\Anti-Softlock\spospo_save.ips
+		ips\Anti-Softlock\spospo_save_smz3.ips = ips\Anti-Softlock\spospo_save_smz3.ips
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C31AD4A8-CCBF-4F34-A833-0CADBA356593}"

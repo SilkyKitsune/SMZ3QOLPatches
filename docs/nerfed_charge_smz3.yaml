@@ -1,0 +1,39 @@
+- Address:     0x08_38_1E
+  SMZ3Address: 0x10_B8_1E
+  Size: 5
+  Data: 89, 00, 00, 80, 0A,
+
+- Address:     0x08_38_F2
+  SMZ3Address: 0x10_B8_F2
+  Size: 2
+  Data: 80, 00,
+
+- Address:     0x08_39_E6
+  SMZ3Address: 0x10_B9_E6
+  Size: 3
+  Data: 20, A0, F6,
+
+- Address:     0x08_4C_D2
+  SMZ3Address: 0x10_CC_D2 #smz3 already modifies bytes at this location, unsure if that causes a problem, seems fine from testing
+  Size: 3
+  Data: 4C, 28, F8,
+
+- Address:     0x08_76_A0
+  SMZ3Address: 0x10_F6_A0
+  Size: 37
+  Data: AD, A6, 09, 89, 00, 10, D0, 19, BD, 2C, 0C, 8D, 04, 42, E2, 20, A9, 03, 8D, 06, 42, C2, 20, 48, 68, EB, EB, AD, 14, 42, 9D, 2C, 0C, BD, 18, 0C, 60,
+
+- Address:     0x08_78_10
+  SMZ3Address: 0x10_F8_10
+  Size: 53
+  Data: 00, 00, 03, 00, 03, 00, 00, 00, 03, 00, 00, 00, 00, 00, 00, 00, 03, 00, 00, 00, 00, 00, 00, 00, AD, A6, 09, 89, 00, 10, F0, 06, AD, CE, 09, 4C, D5, CC, AD, CE, 09, 38, FD, 10, F8, 30, 03, 4C, D9, CC, 4C, C8, CC,
+
+- Address:     0x10_24_CC
+  SMZ3Address: 0x20_A4_CC
+  Size: 3
+  Data: 20, 00, F8,
+
+- Address:     0x10_78_00
+  SMZ3Address: 0x20_F8_00
+  Size: 19
+  Data: 48, AD, A6, 09, 89, 00, 10, F0, 05, A0, C8, 00, 80, 03, A0, 42, 00, 68, 60,

@@ -13,24 +13,31 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}"
 	ProjectSection(SolutionItems) = preProject
 		ips\elevators_speed.ips = ips\elevators_speed.ips
+		ips\elevators_speed_arch.ips = ips\elevators_speed_arch.ips
+		ips\elevators_speed_arch_smz3.ips = ips\elevators_speed_arch_smz3.ips
 		ips\elevators_speed_smz3.ips = ips\elevators_speed_smz3.ips
 		ips\fast_doors.ips = ips\fast_doors.ips
+		ips\fast_doors_arch.ips = ips\fast_doors_arch.ips
+		ips\fast_doors_arch_smz3.ips = ips\fast_doors_arch_smz3.ips
 		ips\fast_doors_smz3.ips = ips\fast_doors_smz3.ips
+		ips\green_pirates_shaft.ips = ips\green_pirates_shaft.ips
+		ips\green_pirates_shaft_smz3.ips = ips\green_pirates_shaft_smz3.ips
 		ips\Infinite_Space_Jump_smz3.ips = ips\Infinite_Space_Jump_smz3.ips
 		ips\minimizer_tourian_common.ips = ips\minimizer_tourian_common.ips
 		ips\minimizer_tourian_common_smz3.ips = ips\minimizer_tourian_common_smz3.ips
 		ips\nerfed_charge.ips = ips\nerfed_charge.ips
+		ips\nerfed_charge_arch.ips = ips\nerfed_charge_arch.ips
+		ips\nerfed_charge_smz3.ips = ips\nerfed_charge_smz3.ips
+		ips\random_music.ips = ips\random_music.ips
+		ips\random_music_smz3.ips = ips\random_music_smz3.ips
 		ips\refill_before_save.ips = ips\refill_before_save.ips
 		ips\refill_before_save_smz3.ips = ips\refill_before_save_smz3.ips
-		ips\remove_elevators_speed.ips = ips\remove_elevators_speed.ips
-		ips\remove_elevators_speed_smz3.ips = ips\remove_elevators_speed_smz3.ips
-		ips\remove_fast_doors.ips = ips\remove_fast_doors.ips
-		ips\remove_fast_doors_smz3.ips = ips\remove_fast_doors_smz3.ips
 		ips\remove_Infinite_Space_Jump.ips = ips\remove_Infinite_Space_Jump.ips
 		ips\remove_Infinite_Space_Jump_smz3.ips = ips\remove_Infinite_Space_Jump_smz3.ips
-		ips\remove_spinjumprestart.ips = ips\remove_spinjumprestart.ips
 		ips\spinjumprestart.ips = ips\spinjumprestart.ips
 		ips\spinjumprestart_smz3.ips = ips\spinjumprestart_smz3.ips
+		ips\supermetroid_msu1.ips = ips\supermetroid_msu1.ips
+		ips\supermetroid_msu1_smz3.ips = ips\supermetroid_msu1_smz3.ips
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anit-Softlock", "Anit-Softlock", "{DABACA08-638A-4F0D-84D5-DFE91DA478A8}"
@@ -56,13 +63,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anit-Softlock", "Anit-Softl
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C31AD4A8-CCBF-4F34-A833-0CADBA356593}"
 	ProjectSection(SolutionItems) = preProject
+		docs\elevators_speed_arch_smz3.yaml = docs\elevators_speed_arch_smz3.yaml
 		docs\elevators_speed_smz3.yaml = docs\elevators_speed_smz3.yaml
+		docs\fast_doors_arch_smz3.yaml = docs\fast_doors_arch_smz3.yaml
 		docs\fast_doors_smz3.yaml = docs\fast_doors_smz3.yaml
+		docs\green_pirates_shaft_smz3.yaml = docs\green_pirates_shaft_smz3.yaml
 		docs\Infinite_Space_Jump_smz3.yaml = docs\Infinite_Space_Jump_smz3.yaml
 		docs\minimizer_tourian_common_smz3.yaml = docs\minimizer_tourian_common_smz3.yaml
+		docs\nerfed_charge_arch_smz3.yaml = docs\nerfed_charge_arch_smz3.yaml
 		docs\nerfed_charge_smz3.yaml = docs\nerfed_charge_smz3.yaml
+		docs\random_music_smz3.yaml = docs\random_music_smz3.yaml
 		docs\refill_before_save_smz3.yaml = docs\refill_before_save_smz3.yaml
 		docs\spinjumprestart_smz3.yaml = docs\spinjumprestart_smz3.yaml
+		docs\supermetroid_msu1_smz3.yaml = docs\supermetroid_msu1_smz3.yaml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softlock", "{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2}"
@@ -78,6 +91,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softl
 		docs\Anti-Softlock\spospo_save_smz3.yaml = docs\Anti-Softlock\spospo_save_smz3.yaml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{B5072139-06F7-423B-97A9-A4913540A08F}"
+	ProjectSection(SolutionItems) = preProject
+		ips\MSU1\alttp_msu1.ips = ips\MSU1\alttp_msu1.ips
+		ips\MSU1\alttp_msu1_noExpansion.ips = ips\MSU1\alttp_msu1_noExpansion.ips
+		ips\MSU1\alttp_msu1_short.ips = ips\MSU1\alttp_msu1_short.ips
+		ips\MSU1\alttp_msu1_short_smz3.ips = ips\MSU1\alttp_msu1_short_smz3.ips
+		ips\MSU1\supermetroid_msu1.ips = ips\MSU1\supermetroid_msu1.ips
+		ips\MSU1\supermetroid_msu1_emulator.ips = ips\MSU1\supermetroid_msu1_emulator.ips
+		ips\MSU1\supermetroid_msu1_emulator_smz3.ips = ips\MSU1\supermetroid_msu1_emulator_smz3.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{67D6F2A0-419C-4607-BDBB-76A3327B2D65}"
+	ProjectSection(SolutionItems) = preProject
+		docs\MSU1\alttp_msu1_noExpansion_smz3.yaml = docs\MSU1\alttp_msu1_noExpansion_smz3.yaml
+		docs\MSU1\alttp_msu1_short_smz3.yaml = docs\MSU1\alttp_msu1_short_smz3.yaml
+		docs\MSU1\alttp_msu1_smz3.yaml = docs\MSU1\alttp_msu1_smz3.yaml
+		docs\MSU1\supermetroid_msu1_emulator_smz3.yaml = docs\MSU1\supermetroid_msu1_emulator_smz3.yaml
+		docs\MSU1\supermetroid_msu1_smz3.yaml = docs\MSU1\supermetroid_msu1_smz3.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sfc", "sfc", "{137F2D16-CEA3-47F1-923E-437288B7D93C}"
+	ProjectSection(SolutionItems) = preProject
+		sfc\green_pirates_shaft.sfc = sfc\green_pirates_shaft.sfc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +125,9 @@ Global
 		{DABACA08-638A-4F0D-84D5-DFE91DA478A8} = {FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}
 		{C31AD4A8-CCBF-4F34-A833-0CADBA356593} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
 		{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2} = {C31AD4A8-CCBF-4F34-A833-0CADBA356593}
+		{B5072139-06F7-423B-97A9-A4913540A08F} = {FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}
+		{67D6F2A0-419C-4607-BDBB-76A3327B2D65} = {C31AD4A8-CCBF-4F34-A833-0CADBA356593}
+		{137F2D16-CEA3-47F1-923E-437288B7D93C} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E041A297-06F4-4BDF-86C0-D8049B0EFB23}

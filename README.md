@@ -29,16 +29,18 @@ Some quality of life patches ported from VARIA randomizer for SMZ3.
 
 [**MSU1**](ips/supermetroid_msu1_smz3.ips "supermetroid_msu1_smz3.ips") (original developed by ???)
 - adds msu1 compatibility to the Super Metroid side
+- this patch partially writes over the title art, it is only a small visual problem and does not cause any real bugs
+![alt text](images/supermetroid_msu1_smz3_title.png "SMZ3 title with MSU1 patch applied")
 
 **Anti-Softlock Layout Patches** (originals developed by Total & Flo)
-- [Brinstar Map Room](ips/brinstar_map_room_smz3.ips "brinstar_map_room_smz3.ips")
+- [Brinstar Map Room](ips/Anti-Softlock/brinstar_map_room_smz3.ips "brinstar_map_room_smz3.ips")
 - Dachora patch coming soon...
-- [Early Super Bridge](ips/early_super_bridge_smz3.ips "early_super_bridge_smz3.ips")
-- [High Jump](ips/high_jump_smz3.ips "high_jump_smz3.ips")
-- [Kraid Save](ips/kraid_save_smz3.ips "kraid_save_smz3.ips")
-- [Moat](ips/moat_smz3.ips "moat_smz3.ips")
-- [Red Tower](ips/red_tower_smz3.ips "red_tower_smz3.ips")
-- [Spazer](ips/spazer_smz3.ips "spazer_smz3.ips")
-- [Spospo Save](ips/spospo_save_smz3.ips "spospo_save_smz3.ips")
+- [Early Super Bridge](ips/Anti-Softlock/early_super_bridge_smz3.ips "early_super_bridge_smz3.ips")
+- [High Jump](ips/Anti-Softlock/high_jump_smz3.ips "high_jump_smz3.ips")
+- [Kraid Save](ips/Anti-Softlock/kraid_save_smz3.ips "kraid_save_smz3.ips")
+- [Moat](ips/Anti-Softlock/moat_smz3.ips "moat_smz3.ips")
+- [Red Tower](ips/Anti-Softlock/red_tower_smz3.ips "red_tower_smz3.ips")
+- [Spazer](ips/Anti-Softlock/spazer_smz3.ips "spazer_smz3.ips")
+- [Spospo Save](ips/Anti-Softlock/spospo_save_smz3.ips "spospo_save_smz3.ips")
 - Layout patch 10 coming soon...
 - Layout patch 11 coming soon...

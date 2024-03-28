@@ -22,20 +22,23 @@ Some quality of life patches ported from VARIA randomizer for SMZ3.
 - using a save station fully refills energy/ammo just like Samus's ship does
 
 [**Nerfed Charge**](ips/nerfed_charge_smz3.ips "nerfed_charge_smz3.ips") (original developed by Smiley & Flo)
-- fill out
+- Samus begins with a starter Charge Beam that does one third of charged shot damage, effectively bringing a nerfed charge shot damage to a standard shot damage, but that can damage bosses.
+- Pseudo Screws also do one third damage.
+- Special Beam Attacks do normal damage but cost 3 Power Bombs instead of 1.
+- Once the Charge Beam item has been collected, it does full damage and special attacks are back to normal.
 
 [**MSU1**](ips/supermetroid_msu1_smz3.ips "supermetroid_msu1_smz3.ips") (original developed by ???)
 - adds msu1 compatibility to the Super Metroid side
 
 **Anti-Softlock Layout Patches** (originals developed by Total & Flo)
-	- [Brinstar Map Room](ips/brinstar_map_room_smz3.ips "brinstar_map_room_smz3.ips")
-	- Dachora patch coming soon...
-	- [Early Super Bridge](ips/early_super_bridge_smz3.ips "early_super_bridge_smz3.ips")
-	- [High Jump](ips/high_jump_smz3.ips "high_jump_smz3.ips")
-	- [Kraid Save](ips/kraid_save_smz3.ips "kraid_save_smz3.ips")
-	- [Moat](ips/moat_smz3.ips "moat_smz3.ips")
-	- [Red Tower](ips/red_tower_smz3.ips "red_tower_smz3.ips")
-	- [Spazer](ips/spazer_smz3.ips "spazer_smz3.ips")
-	- [Spospo Save](ips/spospo_save_smz3.ips "spospo_save_smz3.ips")
-	- Layout patch 10 coming soon...
-    - Layout patch 11 coming soon...
+- [Brinstar Map Room](ips/brinstar_map_room_smz3.ips "brinstar_map_room_smz3.ips")
+- Dachora patch coming soon...
+- [Early Super Bridge](ips/early_super_bridge_smz3.ips "early_super_bridge_smz3.ips")
+- [High Jump](ips/high_jump_smz3.ips "high_jump_smz3.ips")
+- [Kraid Save](ips/kraid_save_smz3.ips "kraid_save_smz3.ips")
+- [Moat](ips/moat_smz3.ips "moat_smz3.ips")
+- [Red Tower](ips/red_tower_smz3.ips "red_tower_smz3.ips")
+- [Spazer](ips/spazer_smz3.ips "spazer_smz3.ips")
+- [Spospo Save](ips/spospo_save_smz3.ips "spospo_save_smz3.ips")
+- Layout patch 10 coming soon...
+- Layout patch 11 coming soon...

@@ -5,47 +5,50 @@
 
 Notes.txt
 
+Other Patches/Asm/
+Other Patches/Docs/MSU1/
+Other Patches/Docs/green_pirates_shaft_smz3.yaml
+Other Patches/MSU1/
+Other Patches/green_pirates_shaft_smz3.ips
+Other Patches/itemsounds.ips
+
 sfc/
-MSU1/
 
-dachora_smz3.yaml
+VARIA Patches/Anti-Softlock/brinstar_map_room.ips
+VARIA Patches/Anti-Softlock/dachora.ips
+VARIA Patches/Anti-Softlock/early_super_bridge.ips
+VARIA Patches/Anti-Softlock/high_jump.ips
+VARIA Patches/Anti-Softlock/kraid_save.ips
+VARIA Patches/Anti-Softlock/moat.ips
+VARIA Patches/Anti-Softlock/red_tower.ips
+VARIA Patches/Anti-Softlock/spazer.ips
+VARIA Patches/Anti-Softlock/spospo_save.ips
 
-elevators_speed_arch_smz3.yaml
-fast_doors_arch_smz3.yaml
-green_pirates_shaft_smz3.yaml
-minimizer_tourian_common_smz3.yaml
-nerfed_charge_arch_smz3.yaml
-random_music_smz3.yaml
+VARIA Patches/Docs/Anti-Softlock/dachora_smz3.yaml
 
-brinstar_map_room.ips
-dachora.ips
-early_super_bridge.ips
-high_jump.ips
-kraid_save.ips
-moat.ips
-red_tower.ips
-spazer.ips
-spospo_save.ips
+VARIA Patches/Docs/elevators_speed_arch_smz3.yaml
+VARIA Patches/Docs/fast_doors_arch_smz3.yaml
+VARIA Patches/Docs/minimizer_tourian_common_smz3.yaml
+VARIA Patches/Docs/nerfed_charge_arch_smz3.yaml
+VARIA Patches/Docs/random_music_smz3.yaml
 
-elevators_speed.ips
-elevators_speed_arch.ips
-elevators_speed_arch_smz3.ips
-fast_doors.ips
-fast_doors_arch.ips
-fast_doors_arch_smz3.ips
-green_pirates_shaft.ips
-green_pirates_shaft_smz3.ips
-minimizer_tourian_common.ips
-minimizer_tourian_common_smz3.ips
-nerfed_charge.ips
-nerfed_charge_arch.ips
-random_music.ips
-random_music_smz3.ips
-refill_before_save.ips
-remove_Infinite_Space_Jump.ips
-remove_Infinite_Space_Jump_smz3.ips
-spinjumprestart.ips
-supermetroid_msu1.ips
+VARIA Patches/elevators_speed.ips
+VARIA Patches/elevators_speed_arch.ips
+VARIA Patches/elevators_speed_arch_smz3.ips
+VARIA Patches/fast_doors.ips
+VARIA Patches/fast_doors_arch.ips
+VARIA Patches/fast_doors_arch_smz3.ips
+VARIA Patches/minimizer_tourian_common.ips
+VARIA Patches/minimizer_tourian_common_smz3.ips
+VARIA Patches/nerfed_charge.ips
+VARIA Patches/nerfed_charge_arch.ips
+VARIA Patches/random_music.ips
+VARIA Patches/random_music_smz3.ips
+VARIA Patches/refill_before_save.ips
+VARIA Patches/remove_Infinite_Space_Jump.ips
+VARIA Patches/remove_Infinite_Space_Jump_smz3.ips
+VARIA Patches/spinjumprestart.ips
+VARIA Patches/supermetroid_msu1.ips
 
 # User-specific files
 *.rsuser

@@ -10,110 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}"
-	ProjectSection(SolutionItems) = preProject
-		ips\elevators_speed.ips = ips\elevators_speed.ips
-		ips\elevators_speed_arch.ips = ips\elevators_speed_arch.ips
-		ips\elevators_speed_arch_smz3.ips = ips\elevators_speed_arch_smz3.ips
-		ips\elevators_speed_smz3.ips = ips\elevators_speed_smz3.ips
-		ips\fast_doors.ips = ips\fast_doors.ips
-		ips\fast_doors_arch.ips = ips\fast_doors_arch.ips
-		ips\fast_doors_arch_smz3.ips = ips\fast_doors_arch_smz3.ips
-		ips\fast_doors_smz3.ips = ips\fast_doors_smz3.ips
-		ips\green_pirates_shaft.ips = ips\green_pirates_shaft.ips
-		ips\green_pirates_shaft_smz3.ips = ips\green_pirates_shaft_smz3.ips
-		ips\Infinite_Space_Jump_smz3.ips = ips\Infinite_Space_Jump_smz3.ips
-		ips\minimizer_tourian_common.ips = ips\minimizer_tourian_common.ips
-		ips\minimizer_tourian_common_smz3.ips = ips\minimizer_tourian_common_smz3.ips
-		ips\nerfed_charge.ips = ips\nerfed_charge.ips
-		ips\nerfed_charge_arch.ips = ips\nerfed_charge_arch.ips
-		ips\nerfed_charge_smz3.ips = ips\nerfed_charge_smz3.ips
-		ips\random_music.ips = ips\random_music.ips
-		ips\random_music_smz3.ips = ips\random_music_smz3.ips
-		ips\refill_before_save.ips = ips\refill_before_save.ips
-		ips\refill_before_save_smz3.ips = ips\refill_before_save_smz3.ips
-		ips\remove_Infinite_Space_Jump.ips = ips\remove_Infinite_Space_Jump.ips
-		ips\remove_Infinite_Space_Jump_smz3.ips = ips\remove_Infinite_Space_Jump_smz3.ips
-		ips\spinjumprestart.ips = ips\spinjumprestart.ips
-		ips\spinjumprestart_smz3.ips = ips\spinjumprestart_smz3.ips
-		ips\supermetroid_msu1.ips = ips\supermetroid_msu1.ips
-		ips\supermetroid_msu1_smz3.ips = ips\supermetroid_msu1_smz3.ips
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anit-Softlock", "Anit-Softlock", "{DABACA08-638A-4F0D-84D5-DFE91DA478A8}"
-	ProjectSection(SolutionItems) = preProject
-		ips\Anti-Softlock\brinstar_map_room.ips = ips\Anti-Softlock\brinstar_map_room.ips
-		ips\Anti-Softlock\brinstar_map_room_smz3.ips = ips\Anti-Softlock\brinstar_map_room_smz3.ips
-		ips\Anti-Softlock\dachora.ips = ips\Anti-Softlock\dachora.ips
-		ips\Anti-Softlock\early_super_bridge.ips = ips\Anti-Softlock\early_super_bridge.ips
-		ips\Anti-Softlock\early_super_bridge_smz3.ips = ips\Anti-Softlock\early_super_bridge_smz3.ips
-		ips\Anti-Softlock\high_jump.ips = ips\Anti-Softlock\high_jump.ips
-		ips\Anti-Softlock\high_jump_smz3.ips = ips\Anti-Softlock\high_jump_smz3.ips
-		ips\Anti-Softlock\kraid_save.ips = ips\Anti-Softlock\kraid_save.ips
-		ips\Anti-Softlock\kraid_save_smz3.ips = ips\Anti-Softlock\kraid_save_smz3.ips
-		ips\Anti-Softlock\moat.ips = ips\Anti-Softlock\moat.ips
-		ips\Anti-Softlock\moat_smz3.ips = ips\Anti-Softlock\moat_smz3.ips
-		ips\Anti-Softlock\red_tower.ips = ips\Anti-Softlock\red_tower.ips
-		ips\Anti-Softlock\red_tower_smz3.ips = ips\Anti-Softlock\red_tower_smz3.ips
-		ips\Anti-Softlock\spazer.ips = ips\Anti-Softlock\spazer.ips
-		ips\Anti-Softlock\spazer_smz3.ips = ips\Anti-Softlock\spazer_smz3.ips
-		ips\Anti-Softlock\spospo_save.ips = ips\Anti-Softlock\spospo_save.ips
-		ips\Anti-Softlock\spospo_save_smz3.ips = ips\Anti-Softlock\spospo_save_smz3.ips
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C31AD4A8-CCBF-4F34-A833-0CADBA356593}"
-	ProjectSection(SolutionItems) = preProject
-		docs\elevators_speed_arch_smz3.yaml = docs\elevators_speed_arch_smz3.yaml
-		docs\elevators_speed_smz3.yaml = docs\elevators_speed_smz3.yaml
-		docs\fast_doors_arch_smz3.yaml = docs\fast_doors_arch_smz3.yaml
-		docs\fast_doors_smz3.yaml = docs\fast_doors_smz3.yaml
-		docs\green_pirates_shaft_smz3.yaml = docs\green_pirates_shaft_smz3.yaml
-		docs\Infinite_Space_Jump_smz3.yaml = docs\Infinite_Space_Jump_smz3.yaml
-		docs\minimizer_tourian_common_smz3.yaml = docs\minimizer_tourian_common_smz3.yaml
-		docs\nerfed_charge_arch_smz3.yaml = docs\nerfed_charge_arch_smz3.yaml
-		docs\nerfed_charge_smz3.yaml = docs\nerfed_charge_smz3.yaml
-		docs\random_music_smz3.yaml = docs\random_music_smz3.yaml
-		docs\refill_before_save_smz3.yaml = docs\refill_before_save_smz3.yaml
-		docs\spinjumprestart_smz3.yaml = docs\spinjumprestart_smz3.yaml
-		docs\supermetroid_msu1_smz3.yaml = docs\supermetroid_msu1_smz3.yaml
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softlock", "{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2}"
-	ProjectSection(SolutionItems) = preProject
-		docs\Anti-Softlock\brinstar_map_room_smz3.yaml = docs\Anti-Softlock\brinstar_map_room_smz3.yaml
-		docs\Anti-Softlock\dachora_smz3.yaml = docs\Anti-Softlock\dachora_smz3.yaml
-		docs\Anti-Softlock\early_super_bridge_smz3.yaml = docs\Anti-Softlock\early_super_bridge_smz3.yaml
-		docs\Anti-Softlock\high_jump_smz3.yaml = docs\Anti-Softlock\high_jump_smz3.yaml
-		docs\Anti-Softlock\kraid_save_smz3.yaml = docs\Anti-Softlock\kraid_save_smz3.yaml
-		docs\Anti-Softlock\moat_smz3.yaml = docs\Anti-Softlock\moat_smz3.yaml
-		docs\Anti-Softlock\red_tower_smz3.yaml = docs\Anti-Softlock\red_tower_smz3.yaml
-		docs\Anti-Softlock\spazer_smz3.yaml = docs\Anti-Softlock\spazer_smz3.yaml
-		docs\Anti-Softlock\spospo_save_smz3.yaml = docs\Anti-Softlock\spospo_save_smz3.yaml
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{B5072139-06F7-423B-97A9-A4913540A08F}"
-	ProjectSection(SolutionItems) = preProject
-		ips\MSU1\alttp_msu1.ips = ips\MSU1\alttp_msu1.ips
-		ips\MSU1\alttp_msu1_noExpansion.ips = ips\MSU1\alttp_msu1_noExpansion.ips
-		ips\MSU1\alttp_msu1_short.ips = ips\MSU1\alttp_msu1_short.ips
-		ips\MSU1\alttp_msu1_short_smz3.ips = ips\MSU1\alttp_msu1_short_smz3.ips
-		ips\MSU1\supermetroid_msu1.ips = ips\MSU1\supermetroid_msu1.ips
-		ips\MSU1\supermetroid_msu1_emulator.ips = ips\MSU1\supermetroid_msu1_emulator.ips
-		ips\MSU1\supermetroid_msu1_emulator_smz3.ips = ips\MSU1\supermetroid_msu1_emulator_smz3.ips
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{67D6F2A0-419C-4607-BDBB-76A3327B2D65}"
-	ProjectSection(SolutionItems) = preProject
-		docs\MSU1\alttp_msu1_noExpansion_smz3.yaml = docs\MSU1\alttp_msu1_noExpansion_smz3.yaml
-		docs\MSU1\alttp_msu1_short_smz3.yaml = docs\MSU1\alttp_msu1_short_smz3.yaml
-		docs\MSU1\alttp_msu1_smz3.yaml = docs\MSU1\alttp_msu1_smz3.yaml
-		docs\MSU1\supermetroid_msu1_emulator_smz3.yaml = docs\MSU1\supermetroid_msu1_emulator_smz3.yaml
-		docs\MSU1\supermetroid_msu1_smz3.yaml = docs\MSU1\supermetroid_msu1_smz3.yaml
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sfc", "sfc", "{137F2D16-CEA3-47F1-923E-437288B7D93C}"
 	ProjectSection(SolutionItems) = preProject
-		sfc\green_pirates_shaft.sfc = sfc\green_pirates_shaft.sfc
+		sfc\big_magic_house.ips = sfc\big_magic_house.ips
+		sfc\itemdata.ips = sfc\itemdata.ips
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{AD3AD8FA-8331-40BC-8BA9-B714126150DA}"
@@ -121,19 +21,137 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{AD3AD8
 		images\supermetroid_msu1_smz3_title.png = images\supermetroid_msu1_smz3_title.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VARIA Patches", "VARIA Patches", "{713499EB-5EAB-487A-B767-C3039D96E1AA}"
+	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\elevators_speed.ips = VARIA Patches\elevators_speed.ips
+		VARIA Patches\elevators_speed_arch.ips = VARIA Patches\elevators_speed_arch.ips
+		VARIA Patches\elevators_speed_arch_smz3.ips = VARIA Patches\elevators_speed_arch_smz3.ips
+		VARIA Patches\elevators_speed_smz3.ips = VARIA Patches\elevators_speed_smz3.ips
+		VARIA Patches\fast_doors.ips = VARIA Patches\fast_doors.ips
+		VARIA Patches\fast_doors_arch.ips = VARIA Patches\fast_doors_arch.ips
+		VARIA Patches\fast_doors_arch_smz3.ips = VARIA Patches\fast_doors_arch_smz3.ips
+		VARIA Patches\fast_doors_smz3.ips = VARIA Patches\fast_doors_smz3.ips
+		VARIA Patches\Infinite_Space_Jump_smz3.ips = VARIA Patches\Infinite_Space_Jump_smz3.ips
+		VARIA Patches\minimizer_tourian_common.ips = VARIA Patches\minimizer_tourian_common.ips
+		VARIA Patches\minimizer_tourian_common_smz3.ips = VARIA Patches\minimizer_tourian_common_smz3.ips
+		VARIA Patches\nerfed_charge.ips = VARIA Patches\nerfed_charge.ips
+		VARIA Patches\nerfed_charge_arch.ips = VARIA Patches\nerfed_charge_arch.ips
+		VARIA Patches\nerfed_charge_smz3.ips = VARIA Patches\nerfed_charge_smz3.ips
+		VARIA Patches\random_music.ips = VARIA Patches\random_music.ips
+		VARIA Patches\random_music_smz3.ips = VARIA Patches\random_music_smz3.ips
+		VARIA Patches\refill_before_save.ips = VARIA Patches\refill_before_save.ips
+		VARIA Patches\refill_before_save_smz3.ips = VARIA Patches\refill_before_save_smz3.ips
+		VARIA Patches\remove_Infinite_Space_Jump.ips = VARIA Patches\remove_Infinite_Space_Jump.ips
+		VARIA Patches\remove_Infinite_Space_Jump_smz3.ips = VARIA Patches\remove_Infinite_Space_Jump_smz3.ips
+		VARIA Patches\spinjumprestart.ips = VARIA Patches\spinjumprestart.ips
+		VARIA Patches\spinjumprestart_smz3.ips = VARIA Patches\spinjumprestart_smz3.ips
+		VARIA Patches\supermetroid_msu1.ips = VARIA Patches\supermetroid_msu1.ips
+		VARIA Patches\supermetroid_msu1_smz3.ips = VARIA Patches\supermetroid_msu1_smz3.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softlock", "{7F61B528-9A46-417F-A5DD-5C79BE8BA171}"
+	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\Anti-Softlock\brinstar_map_room.ips = VARIA Patches\Anti-Softlock\brinstar_map_room.ips
+		VARIA Patches\Anti-Softlock\brinstar_map_room_smz3.ips = VARIA Patches\Anti-Softlock\brinstar_map_room_smz3.ips
+		VARIA Patches\Anti-Softlock\dachora.ips = VARIA Patches\Anti-Softlock\dachora.ips
+		VARIA Patches\Anti-Softlock\early_super_bridge.ips = VARIA Patches\Anti-Softlock\early_super_bridge.ips
+		VARIA Patches\Anti-Softlock\early_super_bridge_smz3.ips = VARIA Patches\Anti-Softlock\early_super_bridge_smz3.ips
+		VARIA Patches\Anti-Softlock\high_jump.ips = VARIA Patches\Anti-Softlock\high_jump.ips
+		VARIA Patches\Anti-Softlock\high_jump_smz3.ips = VARIA Patches\Anti-Softlock\high_jump_smz3.ips
+		VARIA Patches\Anti-Softlock\kraid_save.ips = VARIA Patches\Anti-Softlock\kraid_save.ips
+		VARIA Patches\Anti-Softlock\kraid_save_smz3.ips = VARIA Patches\Anti-Softlock\kraid_save_smz3.ips
+		VARIA Patches\Anti-Softlock\moat.ips = VARIA Patches\Anti-Softlock\moat.ips
+		VARIA Patches\Anti-Softlock\moat_smz3.ips = VARIA Patches\Anti-Softlock\moat_smz3.ips
+		VARIA Patches\Anti-Softlock\red_tower.ips = VARIA Patches\Anti-Softlock\red_tower.ips
+		VARIA Patches\Anti-Softlock\red_tower_smz3.ips = VARIA Patches\Anti-Softlock\red_tower_smz3.ips
+		VARIA Patches\Anti-Softlock\spazer.ips = VARIA Patches\Anti-Softlock\spazer.ips
+		VARIA Patches\Anti-Softlock\spazer_smz3.ips = VARIA Patches\Anti-Softlock\spazer_smz3.ips
+		VARIA Patches\Anti-Softlock\spospo_save.ips = VARIA Patches\Anti-Softlock\spospo_save.ips
+		VARIA Patches\Anti-Softlock\spospo_save_smz3.ips = VARIA Patches\Anti-Softlock\spospo_save_smz3.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{CE9B1C38-E080-4CEB-BFA0-EDD8AE92F57A}"
+	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\Docs\elevators_speed_arch_smz3.yaml = VARIA Patches\Docs\elevators_speed_arch_smz3.yaml
+		VARIA Patches\Docs\elevators_speed_smz3.yaml = VARIA Patches\Docs\elevators_speed_smz3.yaml
+		VARIA Patches\Docs\fast_doors_arch_smz3.yaml = VARIA Patches\Docs\fast_doors_arch_smz3.yaml
+		VARIA Patches\Docs\fast_doors_smz3.yaml = VARIA Patches\Docs\fast_doors_smz3.yaml
+		VARIA Patches\Docs\Infinite_Space_Jump_smz3.yaml = VARIA Patches\Docs\Infinite_Space_Jump_smz3.yaml
+		VARIA Patches\Docs\minimizer_tourian_common_smz3.yaml = VARIA Patches\Docs\minimizer_tourian_common_smz3.yaml
+		VARIA Patches\Docs\nerfed_charge_arch_smz3.yaml = VARIA Patches\Docs\nerfed_charge_arch_smz3.yaml
+		VARIA Patches\Docs\nerfed_charge_smz3.yaml = VARIA Patches\Docs\nerfed_charge_smz3.yaml
+		VARIA Patches\Docs\random_music_smz3.yaml = VARIA Patches\Docs\random_music_smz3.yaml
+		VARIA Patches\Docs\refill_before_save_smz3.yaml = VARIA Patches\Docs\refill_before_save_smz3.yaml
+		VARIA Patches\Docs\spinjumprestart_smz3.yaml = VARIA Patches\Docs\spinjumprestart_smz3.yaml
+		VARIA Patches\Docs\supermetroid_msu1_smz3.yaml = VARIA Patches\Docs\supermetroid_msu1_smz3.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softlock", "{580F5489-BF78-4A87-B0F9-FADE055193B8}"
+	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\Docs\Anti-Softlock\brinstar_map_room_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\brinstar_map_room_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\dachora_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\dachora_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\early_super_bridge_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\early_super_bridge_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\high_jump_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\high_jump_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\kraid_save_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\kraid_save_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\moat_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\moat_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\red_tower_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\red_tower_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\spazer_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\spazer_smz3.yaml
+		VARIA Patches\Docs\Anti-Softlock\spospo_save_smz3.yaml = VARIA Patches\Docs\Anti-Softlock\spospo_save_smz3.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Patches", "Other Patches", "{A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}"
+	ProjectSection(SolutionItems) = preProject
+		Other Patches\green_pirates_shaft_smz3.ips = Other Patches\green_pirates_shaft_smz3.ips
+		Other Patches\itemsounds.ips = Other Patches\itemsounds.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{E87CD5E1-A2A6-47CC-9F5A-6D90F6FEFF97}"
+	ProjectSection(SolutionItems) = preProject
+		Other Patches\MSU1\alttp_msu1.ips = Other Patches\MSU1\alttp_msu1.ips
+		Other Patches\MSU1\alttp_msu1_noExpansion.ips = Other Patches\MSU1\alttp_msu1_noExpansion.ips
+		Other Patches\MSU1\alttp_msu1_short.ips = Other Patches\MSU1\alttp_msu1_short.ips
+		Other Patches\MSU1\alttp_msu1_short_smz3.ips = Other Patches\MSU1\alttp_msu1_short_smz3.ips
+		Other Patches\MSU1\supermetroid_msu1.ips = Other Patches\MSU1\supermetroid_msu1.ips
+		Other Patches\MSU1\supermetroid_msu1_emulator.ips = Other Patches\MSU1\supermetroid_msu1_emulator.ips
+		Other Patches\MSU1\supermetroid_msu1_emulator_smz3.ips = Other Patches\MSU1\supermetroid_msu1_emulator_smz3.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{66F0D19B-2D4A-4302-8F80-C090D2449545}"
+	ProjectSection(SolutionItems) = preProject
+		Other Patches\Docs\green_pirates_shaft_smz3.yaml = Other Patches\Docs\green_pirates_shaft_smz3.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asm", "Asm", "{A7B43D77-CEBF-4EAD-A7E5-5F13AEA0A5DC}"
+	ProjectSection(SolutionItems) = preProject
+		Other Patches\Asm\SMZ3_MSU1.asm = Other Patches\Asm\SMZ3_MSU1.asm
+		Other Patches\Asm\SMZ3_MSU1.ips = Other Patches\Asm\SMZ3_MSU1.ips
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{DCA3437A-4B02-46AB-A3F0-B1F21133C62D}"
+	ProjectSection(SolutionItems) = preProject
+		Other Patches\Docs\MSU1\alttp_msu1_noExpansion_smz3.yaml = Other Patches\Docs\MSU1\alttp_msu1_noExpansion_smz3.yaml
+		Other Patches\Docs\MSU1\alttp_msu1_short_smz3.yaml = Other Patches\Docs\MSU1\alttp_msu1_short_smz3.yaml
+		Other Patches\Docs\MSU1\alttp_msu1_smz3.yaml = Other Patches\Docs\MSU1\alttp_msu1_smz3.yaml
+		Other Patches\Docs\MSU1\supermetroid_msu1_emulator_smz3.yaml = Other Patches\Docs\MSU1\supermetroid_msu1_emulator_smz3.yaml
+		Other Patches\Docs\MSU1\supermetroid_msu1_smz3.yaml = Other Patches\Docs\MSU1\supermetroid_msu1_smz3.yaml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
-		{DABACA08-638A-4F0D-84D5-DFE91DA478A8} = {FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}
-		{C31AD4A8-CCBF-4F34-A833-0CADBA356593} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
-		{26FFED61-8CF9-4E3B-B1F9-DF49B35D28E2} = {C31AD4A8-CCBF-4F34-A833-0CADBA356593}
-		{B5072139-06F7-423B-97A9-A4913540A08F} = {FD49D41E-6C22-4B6D-B2E1-5B5A6CBB767D}
-		{67D6F2A0-419C-4607-BDBB-76A3327B2D65} = {C31AD4A8-CCBF-4F34-A833-0CADBA356593}
 		{137F2D16-CEA3-47F1-923E-437288B7D93C} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
 		{AD3AD8FA-8331-40BC-8BA9-B714126150DA} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
+		{713499EB-5EAB-487A-B767-C3039D96E1AA} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
+		{7F61B528-9A46-417F-A5DD-5C79BE8BA171} = {713499EB-5EAB-487A-B767-C3039D96E1AA}
+		{CE9B1C38-E080-4CEB-BFA0-EDD8AE92F57A} = {713499EB-5EAB-487A-B767-C3039D96E1AA}
+		{580F5489-BF78-4A87-B0F9-FADE055193B8} = {CE9B1C38-E080-4CEB-BFA0-EDD8AE92F57A}
+		{A8F79C4F-7FF9-402D-9439-2E19E01C6F1B} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
+		{E87CD5E1-A2A6-47CC-9F5A-6D90F6FEFF97} = {A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}
+		{66F0D19B-2D4A-4302-8F80-C090D2449545} = {A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}
+		{A7B43D77-CEBF-4EAD-A7E5-5F13AEA0A5DC} = {A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}
+		{DCA3437A-4B02-46AB-A3F0-B1F21133C62D} = {66F0D19B-2D4A-4302-8F80-C090D2449545}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E041A297-06F4-4BDF-86C0-D8049B0EFB23}

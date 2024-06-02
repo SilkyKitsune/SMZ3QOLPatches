@@ -101,8 +101,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softl
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Patches", "Other Patches", "{A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}"
 	ProjectSection(SolutionItems) = preProject
-		Other Patches\green_pirates_shaft_smz3.ips = Other Patches\green_pirates_shaft_smz3.ips
 		Other Patches\itemsounds.ips = Other Patches\itemsounds.ips
+		Other Patches\PirateShaftDropBlocksFix_smz3.ips = Other Patches\PirateShaftDropBlocksFix_smz3.ips
+		Other Patches\TorizoBombBlocksFix_smz3.ips = Other Patches\TorizoBombBlocksFix_smz3.ips
+		Other Patches\TourianShort_smz3.ips = Other Patches\TourianShort_smz3.ips
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{E87CD5E1-A2A6-47CC-9F5A-6D90F6FEFF97}"
@@ -118,7 +120,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{E87CD5E1-A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{66F0D19B-2D4A-4302-8F80-C090D2449545}"
 	ProjectSection(SolutionItems) = preProject
-		Other Patches\Docs\green_pirates_shaft_smz3.yaml = Other Patches\Docs\green_pirates_shaft_smz3.yaml
+		Other Patches\Docs\PirateShaftDropBlocksFix_smz3.yaml = Other Patches\Docs\PirateShaftDropBlocksFix_smz3.yaml
+		Other Patches\Docs\TorizoBombBlocksFix_smz3.yaml = Other Patches\Docs\TorizoBombBlocksFix_smz3.yaml
+		Other Patches\Docs\TourianShort_smz3.yaml = Other Patches\Docs\TourianShort_smz3.yaml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asm", "Asm", "{A7B43D77-CEBF-4EAD-A7E5-5F13AEA0A5DC}"

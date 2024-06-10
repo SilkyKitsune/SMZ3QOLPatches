@@ -10,12 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sfc", "sfc", "{137F2D16-CEA3-47F1-923E-437288B7D93C}"
-	ProjectSection(SolutionItems) = preProject
-		sfc\big_magic_house.ips = sfc\big_magic_house.ips
-		sfc\itemdata.ips = sfc\itemdata.ips
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{AD3AD8FA-8331-40BC-8BA9-B714126150DA}"
 	ProjectSection(SolutionItems) = preProject
 		images\supermetroid_msu1_smz3_title.png = images\supermetroid_msu1_smz3_title.png
@@ -23,6 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{AD3AD8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VARIA Patches", "VARIA Patches", "{713499EB-5EAB-487A-B767-C3039D96E1AA}"
 	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\decompression_smz3.ips = VARIA Patches\decompression_smz3.ips
 		VARIA Patches\elevators_speed.ips = VARIA Patches\elevators_speed.ips
 		VARIA Patches\elevators_speed_arch.ips = VARIA Patches\elevators_speed_arch.ips
 		VARIA Patches\elevators_speed_arch_smz3.ips = VARIA Patches\elevators_speed_arch_smz3.ips
@@ -32,6 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VARIA Patches", "VARIA Patc
 		VARIA Patches\fast_doors_arch_smz3.ips = VARIA Patches\fast_doors_arch_smz3.ips
 		VARIA Patches\fast_doors_smz3.ips = VARIA Patches\fast_doors_smz3.ips
 		VARIA Patches\Infinite_Space_Jump_smz3.ips = VARIA Patches\Infinite_Space_Jump_smz3.ips
+		VARIA Patches\itemsounds.ips = VARIA Patches\itemsounds.ips
 		VARIA Patches\minimizer_tourian_common.ips = VARIA Patches\minimizer_tourian_common.ips
 		VARIA Patches\minimizer_tourian_common_smz3.ips = VARIA Patches\minimizer_tourian_common_smz3.ips
 		VARIA Patches\nerfed_charge.ips = VARIA Patches\nerfed_charge.ips
@@ -54,6 +50,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softl
 		VARIA Patches\Anti-Softlock\brinstar_map_room.ips = VARIA Patches\Anti-Softlock\brinstar_map_room.ips
 		VARIA Patches\Anti-Softlock\brinstar_map_room_smz3.ips = VARIA Patches\Anti-Softlock\brinstar_map_room_smz3.ips
 		VARIA Patches\Anti-Softlock\dachora.ips = VARIA Patches\Anti-Softlock\dachora.ips
+		VARIA Patches\Anti-Softlock\dachora_smz3.ips = VARIA Patches\Anti-Softlock\dachora_smz3.ips
 		VARIA Patches\Anti-Softlock\early_super_bridge.ips = VARIA Patches\Anti-Softlock\early_super_bridge.ips
 		VARIA Patches\Anti-Softlock\early_super_bridge_smz3.ips = VARIA Patches\Anti-Softlock\early_super_bridge_smz3.ips
 		VARIA Patches\Anti-Softlock\high_jump.ips = VARIA Patches\Anti-Softlock\high_jump.ips
@@ -101,7 +98,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anti-Softlock", "Anti-Softl
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Patches", "Other Patches", "{A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}"
 	ProjectSection(SolutionItems) = preProject
-		Other Patches\itemsounds.ips = Other Patches\itemsounds.ips
+		Other Patches\BigMagicHouse.ips = Other Patches\BigMagicHouse.ips
+		Other Patches\BigMagicHouse_smz3.ips = Other Patches\BigMagicHouse_smz3.ips
+		Other Patches\DecompressionFix.ips = Other Patches\DecompressionFix.ips
 		Other Patches\PirateShaftDropBlocksFix_smz3.ips = Other Patches\PirateShaftDropBlocksFix_smz3.ips
 		Other Patches\TorizoBombBlocksFix_smz3.ips = Other Patches\TorizoBombBlocksFix_smz3.ips
 		Other Patches\TourianShort_smz3.ips = Other Patches\TourianShort_smz3.ips
@@ -120,6 +119,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{E87CD5E1-A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{66F0D19B-2D4A-4302-8F80-C090D2449545}"
 	ProjectSection(SolutionItems) = preProject
+		Other Patches\Docs\BigMagicHouse_smz3.yaml = Other Patches\Docs\BigMagicHouse_smz3.yaml
 		Other Patches\Docs\PirateShaftDropBlocksFix_smz3.yaml = Other Patches\Docs\PirateShaftDropBlocksFix_smz3.yaml
 		Other Patches\Docs\TorizoBombBlocksFix_smz3.yaml = Other Patches\Docs\TorizoBombBlocksFix_smz3.yaml
 		Other Patches\Docs\TourianShort_smz3.yaml = Other Patches\Docs\TourianShort_smz3.yaml
@@ -140,12 +140,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSU1", "MSU1", "{DCA3437A-4
 		Other Patches\Docs\MSU1\supermetroid_msu1_smz3.yaml = Other Patches\Docs\MSU1\supermetroid_msu1_smz3.yaml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asm", "Asm", "{D44DCB4E-6E17-401A-84F7-6E9CCE5FABF8}"
+	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\Asm\DecompDecompilation_smz3.txt = VARIA Patches\Asm\DecompDecompilation_smz3.txt
+		VARIA Patches\Asm\DecompDisassembly.asm = VARIA Patches\Asm\DecompDisassembly.asm
+		VARIA Patches\Asm\DecompDisassembly_smz3.asm = VARIA Patches\Asm\DecompDisassembly_smz3.asm
+		VARIA Patches\Asm\decompression_smz3.asm = VARIA Patches\Asm\decompression_smz3.asm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{137F2D16-CEA3-47F1-923E-437288B7D93C} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
 		{AD3AD8FA-8331-40BC-8BA9-B714126150DA} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
 		{713499EB-5EAB-487A-B767-C3039D96E1AA} = {3F4893E1-0CDE-4421-82F8-EC1277E39D51}
 		{7F61B528-9A46-417F-A5DD-5C79BE8BA171} = {713499EB-5EAB-487A-B767-C3039D96E1AA}
@@ -156,6 +163,7 @@ Global
 		{66F0D19B-2D4A-4302-8F80-C090D2449545} = {A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}
 		{A7B43D77-CEBF-4EAD-A7E5-5F13AEA0A5DC} = {A8F79C4F-7FF9-402D-9439-2E19E01C6F1B}
 		{DCA3437A-4B02-46AB-A3F0-B1F21133C62D} = {66F0D19B-2D4A-4302-8F80-C090D2449545}
+		{D44DCB4E-6E17-401A-84F7-6E9CCE5FABF8} = {713499EB-5EAB-487A-B767-C3039D96E1AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E041A297-06F4-4BDF-86C0-D8049B0EFB23}

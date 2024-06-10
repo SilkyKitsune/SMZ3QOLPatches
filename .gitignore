@@ -8,9 +8,6 @@ Notes.txt
 Other Patches/Asm/
 Other Patches/Docs/MSU1/
 Other Patches/MSU1/
-Other Patches/itemsounds.ips
-
-sfc/
 
 VARIA Patches/Anti-Softlock/brinstar_map_room.ips
 VARIA Patches/Anti-Softlock/dachora.ips
@@ -21,8 +18,6 @@ VARIA Patches/Anti-Softlock/moat.ips
 VARIA Patches/Anti-Softlock/red_tower.ips
 VARIA Patches/Anti-Softlock/spazer.ips
 VARIA Patches/Anti-Softlock/spospo_save.ips
-
-VARIA Patches/Docs/Anti-Softlock/dachora_smz3.yaml
 
 VARIA Patches/Docs/elevators_speed_arch_smz3.yaml
 VARIA Patches/Docs/fast_doors_arch_smz3.yaml
@@ -36,6 +31,7 @@ VARIA Patches/elevators_speed_arch_smz3.ips
 VARIA Patches/fast_doors.ips
 VARIA Patches/fast_doors_arch.ips
 VARIA Patches/fast_doors_arch_smz3.ips
+VARIA Patches/itemsounds.ips
 VARIA Patches/minimizer_tourian_common.ips
 VARIA Patches/minimizer_tourian_common_smz3.ips
 VARIA Patches/nerfed_charge.ips

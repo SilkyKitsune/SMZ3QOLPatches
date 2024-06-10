@@ -1,0 +1,101 @@
+#decompression has been moved to "decompression_smz3.ips"
+
+- Address:     0x00_2E_9D
+  SMZ3Address: 0x00_AE_9D
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2E_A7
+  SMZ3Address: 0x00_AE_A7
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2E_B6
+  SMZ3Address: 0x00_AE_B6
+  Size: 2
+  Data: 20, 00,
+
+- Address:     0x00_2E_E1
+  SMZ3Address: 0x00_AE_E1
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2E_EB
+  SMZ3Address: 0x00_AE_EB
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2E_FA
+  SMZ3Address: 0x00_AE_FA
+  Size: 2
+  Data: 20, 00,
+
+- Address:     0x00_2F_45
+  SMZ3Address: 0x00_AF_45
+  Size: 2
+  Data: 1D, 00,
+
+- Address:     0x00_2F_64
+  SMZ3Address: 0x00_AF_64
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2F_6E
+  SMZ3Address: 0x00_AF_6E
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2F_7D
+  SMZ3Address: 0x00_AF_7D
+  Size: 2
+  Data: 1D, 00,
+
+- Address:     0x00_2F_E6
+  SMZ3Address: 0x00_AF_E6
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2F_F0
+  SMZ3Address: 0x00_AF_F0
+  Size: 2
+  Data: 08, 00,
+
+- Address:     0x00_2F_F6
+  SMZ3Address: 0x00_AF_F6
+  Size: 2
+  Data: 03, 00,
+
+- Address:     0x00_30_2A
+  SMZ3Address: 0x00_B0_2A
+  Size: 2
+  Data: 1D, 00,
+
+- Address:     0x01_59_62
+  SMZ3Address: 0x02_D9_62
+  Size: 2
+  Data: 06, 00,
+
+- Address:     0x01_5E_50
+  SMZ3Address: 0x02_DE_50
+  Size: 18
+  Data: 10, 0F, AD, 91, 07, 6A, 6A, B0, 05, A9, C8, 00, 80, 03, A9, 80, 01, 0A,
+
+- Address:     0x01_63_C5
+  SMZ3Address: 0x02_E3_C5
+  Size: 4
+  Data: 5C, B1, F9, A1,
+
+- Address:     0x01_63_25
+  SMZ3Address: 0x02_E3_25
+  Size: 10
+  Data: EA, 08, A2, 04, 00, 28, 22, 80, F9, A1,
+
+- Address:     0x01_63_39
+  SMZ3Address: 0x02_E3_39
+  Size: 10
+  Data: EA, 08, A2, 00, 00, 28, 22, 80, F9, A1,
+
+- Address:     0x10_F9_80
+  SMZ3Address: 0x21_F9_80
+  Size: 159
+  Data: E2, 20, 30, 09, BD, 11, 09, C9, 02, 10, 12, 80, 0A, BD, 11, 09, C9, FE, 30, 10, FE, 12, 09, 9E, 11, 09, C2, 20, 6B, C2, 20, A9, FE, FF, 80, 05, C2, 20, A9, 02, 00, 18, 7D, 11, 09, 9D, 11, 09, 6B, AD, 91, 07, 89, 02, 00, F0, 2F, 89, 01, 00, F0, 15, AD, FC, 0A, 18, 69, 00, 80, 8D, FC, 0A, A9, 05, 00, 6D, FA, 0A, 8D, FA, 0A, 80, 42, AD, FC, 0A, 38, E9, 00, 80, 8D, FC, 0A, AD, FA, 0A, E9, 05, 00, 8D, FA, 0A, 80, 2D, 89, 01, 00, F0, 15, AD, F8, 0A, 18, 69, 00, C8, 8D, F8, 0A, A9, 04, 00, 6D, F6, 0A, 8D, F6, 0A, 80, 13, AD, F8, 0A, 38, E9, 00, C8, 8D, F8, 0A, AD, F6, 0A, E9, 04, 00, 8D, F6, 0A, AD, F6, 0A, 29, FF, 00, 5C, CB, E3, 82,

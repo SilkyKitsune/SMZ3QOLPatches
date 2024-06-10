@@ -1,16 +1,35 @@
 # SMZ3 Quality of Life Patches
-Some quality of life patches ported from VARIA randomizer for SMZ3.
+Some quality of life patches for SMZ3 ported from other randomizers.
 
 ### Important Info
 - The IPS files are the only thing you need to download, you'll have to apply them individually with something like LunarIPS.
-- Text documents show how the addresses have been adjusted for SMZ3.
+- YAML documents show how the addresses have been adjusted for SMZ3.
 
-### Patches
+### Misc Patches
+[**Big Magic House**](Other%20Patches/BigMagicHouse_smz3.ips "BigMagicHouse_smz3.ips") (developed by SilkyKitsune)
+- green rupee bushes outside Link's house now have big magic pots instead
+- [Here](Other%20Patches/BigMagicHouse.ips "BigMagicHouse.ips") is a version that will work for Link to the Past
+
+### Patches from [SMMIR](https://github.com/SilkyKitsune/SuperMetroidRandomizer "Super Metroid Major Item Randomizer")
+[**Pirate Shaft Drop Blocks Fix**](Other%20Patches/PirateShaftDropBlocksFix_smz3.ips "PirateShaftDropBlocksFix_smz3.ips") (developed by SilkyKitsune)
+- drop through blocks in Green Pirate Shaft no longer respawn
+
+[**Torizo Bomb Blocks Fix**](Other%20Patches/TorizoBombBlocksFix_smz3.ips "TorizoBombBlocksFix_smz3.ips") (developed by SilkyKitsune)
+- changes the bomb blocks outside of Bomb Torizo to be shot blocks
+
+[**Tourian Short**](Other%20Patches/TourianShort_smz3.ips "TourianShort_smz3.ips") (developed by SilkyKitsune)
+- Tourian is much shorter now, skipping straight to Mother Brain
+
+### Patches from [VARIA Randomizer](https://github.com/theonlydude/RandomMetroidSolver/tree/master "VARIA Randomizer")
+[**Optimized Decompression**](VARIA%20Patches/decompression_smz3.ips "decompression_smz3.ips") (original developed by Kejardon, PJBoy and Maddo)
+- coming soon...
+
 [**Elevators Speed**](VARIA%20Patches/elevators_speed_smz3.ips "elevators_speed_smz3.ips") (original developed by Lioran)
 - increases elevator speed in the Super Metroid side
 
 [**Fast Doors**](VARIA%20Patches/fast_doors_smz3.ips "fast_doors_smz3.ips") (original developed by Rakki)
 - increases door transition speed in the Super Metroid side
+- this patch no longer includes optimized decompression, you'll have to compound this with [decompression_smz3.ips](VARIA%20Patches/decompression_smz3.ips "decompression_smz3.ips")
 
 [**Infinite Space Jump**](VARIA%20Patches/Infinite_Space_Jump_smz3.ips "Infinite_Space_Jump_smz3.ips") (original developed by MetConst)
 - removes all limitation of Space Jump so it may be spammed freely

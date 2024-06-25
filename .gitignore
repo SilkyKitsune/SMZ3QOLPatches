@@ -25,6 +25,8 @@ VARIA Patches/Docs/minimizer_tourian_common_smz3.yaml
 VARIA Patches/Docs/nerfed_charge_arch_smz3.yaml
 VARIA Patches/Docs/random_music_smz3.yaml
 
+VARIA Patches/decompression.ips
+VARIA Patches/decompression_smz3_old.ips
 VARIA Patches/elevators_speed.ips
 VARIA Patches/elevators_speed_arch.ips
 VARIA Patches/elevators_speed_arch_smz3.ips

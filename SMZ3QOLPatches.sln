@@ -17,7 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{AD3AD8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VARIA Patches", "VARIA Patches", "{713499EB-5EAB-487A-B767-C3039D96E1AA}"
 	ProjectSection(SolutionItems) = preProject
+		VARIA Patches\decompression.ips = VARIA Patches\decompression.ips
 		VARIA Patches\decompression_smz3.ips = VARIA Patches\decompression_smz3.ips
+		VARIA Patches\decompression_smz3_old.ips = VARIA Patches\decompression_smz3_old.ips
 		VARIA Patches\elevators_speed.ips = VARIA Patches\elevators_speed.ips
 		VARIA Patches\elevators_speed_arch.ips = VARIA Patches\elevators_speed_arch.ips
 		VARIA Patches\elevators_speed_arch_smz3.ips = VARIA Patches\elevators_speed_arch_smz3.ips
@@ -100,7 +102,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Patches", "Other Patc
 	ProjectSection(SolutionItems) = preProject
 		Other Patches\BigMagicHouse.ips = Other Patches\BigMagicHouse.ips
 		Other Patches\BigMagicHouse_smz3.ips = Other Patches\BigMagicHouse_smz3.ips
-		Other Patches\DecompressionFix.ips = Other Patches\DecompressionFix.ips
 		Other Patches\PirateShaftDropBlocksFix_smz3.ips = Other Patches\PirateShaftDropBlocksFix_smz3.ips
 		Other Patches\TorizoBombBlocksFix_smz3.ips = Other Patches\TorizoBombBlocksFix_smz3.ips
 		Other Patches\TourianShort_smz3.ips = Other Patches\TourianShort_smz3.ips

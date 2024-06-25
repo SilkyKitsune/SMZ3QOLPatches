@@ -53,7 +53,7 @@ Some quality of life patches for SMZ3 ported from other randomizers.
 
 **Anti-Softlock Layout Patches** (originals developed by Total & Flo)
 - [Brinstar Map Room](VARIA%20Patches/Anti-Softlock/brinstar_map_room_smz3.ips "brinstar_map_room_smz3.ips")
-- Dachora patch coming soon...
+- [Dachora](VARIA%20Patches/Anti-Softlock/dachora_smz3.ips "dachora_smz3.ips")
 - [Early Super Bridge](VARIA%20Patches/Anti-Softlock/early_super_bridge_smz3.ips "early_super_bridge_smz3.ips")
 - [High Jump](VARIA%20Patches/Anti-Softlock/high_jump_smz3.ips "high_jump_smz3.ips")
 - [Kraid Save](VARIA%20Patches/Anti-Softlock/kraid_save_smz3.ips "kraid_save_smz3.ips")
